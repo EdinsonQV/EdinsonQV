@@ -4,6 +4,7 @@
   🎙️ learning from: [huberman lab](https://hubermanlab.com/nutrients-for-brain-health-and-performance/) <br>
   📖 reading: Life 3.0 Being Human in the Age of Artificial Intelligence <br> 
   🎧 listening to: <br> </samp>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view.svg?uid=edisonquizhpe&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile) <br>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=edisonquizhpe&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile) <br>
 <br><br>
 <samp><img src="https://blog.waalaxy.com/wp-content/uploads/2021/01/LinkedIn-Symbole.png" width="23">find me on [linkedin](https://www.linkedin.com/in/edinsonquizhpe/) 💭
+
